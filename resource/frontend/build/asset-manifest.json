@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "../../resource/frontend/build/static/css/main.435d5fe5.chunk.css",
+    "main.js": "../../resource/frontend/build/static/js/main.50f08fa8.chunk.js",
+    "main.js.map": "../../resource/frontend/build/static/js/main.50f08fa8.chunk.js.map",
+    "runtime-main.js": "../../resource/frontend/build/static/js/runtime-main.3d42e5a9.js",
+    "runtime-main.js.map": "../../resource/frontend/build/static/js/runtime-main.3d42e5a9.js.map",
+    "static/css/2.43a1c8b7.chunk.css": "../../resource/frontend/build/static/css/2.43a1c8b7.chunk.css",
+    "static/js/2.5212c919.chunk.js": "../../resource/frontend/build/static/js/2.5212c919.chunk.js",
+    "static/js/2.5212c919.chunk.js.map": "../../resource/frontend/build/static/js/2.5212c919.chunk.js.map",
+    "index.html": "../../resource/frontend/build/index.html",
+    "precache-manifest.bd164f9c09215eee80608a93970df133.js": "../../resource/frontend/build/precache-manifest.bd164f9c09215eee80608a93970df133.js",
+    "service-worker.js": "../../resource/frontend/build/service-worker.js",
+    "static/css/2.43a1c8b7.chunk.css.map": "../../resource/frontend/build/static/css/2.43a1c8b7.chunk.css.map",
+    "static/css/main.435d5fe5.chunk.css.map": "../../resource/frontend/build/static/css/main.435d5fe5.chunk.css.map",
+    "static/js/2.5212c919.chunk.js.LICENSE.txt": "../../resource/frontend/build/static/js/2.5212c919.chunk.js.LICENSE.txt",
+    "static/media/index.css": "../../resource/frontend/build/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d42e5a9.js",
+    "static/css/2.43a1c8b7.chunk.css",
+    "static/js/2.5212c919.chunk.js",
+    "static/css/main.435d5fe5.chunk.css",
+    "static/js/main.50f08fa8.chunk.js"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "label": "Fashion Search",
+        "description": "Fashion Search plugin with Elasticsearch and BERT",
+        "icon": "icon-user"
+    },
+    "baseType": "STANDARD",
+    "hasBackend": "true",
+    "noJSSecurity": "false",
+    "standardWebAppLibraries": ["jquery","dataiku"],
+    "params": [
+        {
+        "type": "DATASET",
+        "name": "es_index",
+        "label": "Elastic Search Index"
+        },
+        {
+            "name": "image_folder",
+            "type": "FOLDER",
+            "label": "Image Folder",
+            "description": "Select the folder containing the fashion images listed in the ES index",
+            "mandatory": true         
+        },
+        {
+            "name": "model_folder",
+            "type": "FOLDER",
+            "label": "Model Folder",
+            "description": "Select the folder containing the Model and Transformer",
+            "mandatory": true         
+        }
+    ],
+    "roles": []
+}

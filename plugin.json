@@ -1,17 +1,14 @@
 {
-    "id": "your-plugin-id",
-    "version": "0.1.0",
+    "id": "fashion-search",
+    "version": "0.0.4",
     "meta": {
-        "label": "Plugin template - Replace by your plugin label",
-        "category": "Your category (optional)",
-        "description": "Your description (keep it short and simple)",
-        "author": "Organization (firstName LASTNAME)",
-        "icon": "icon-font-awesome-3.2.1",
-        "licenseInfo": "Apache Software License",
-        "url": "https://www.dataiku.com/product/plugins/your-plugin-id/",
-        "tags": [
-            "myTag"
-        ],
-        "supportLevel": "NOT_SUPPORTED"
-    }
+        "label": "Fashion search",
+        "description": "Use BERT to search for fashion results",
+        "author": "DATAIKU (David Carlson)",
+        "icon": "icon-user",
+        "tags": ["NLP"],
+        "url": "https://github.com/mndrake/dss-plugin-fashion-search",
+        "licenseInfo": "Apache Software License"
+    },
+    "supportLevel": "NOT_SUPPORTED"
 }

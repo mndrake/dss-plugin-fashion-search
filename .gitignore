@@ -230,3 +230,7 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 .vscode/settings.json
+
+# Node/JS
+!resource/frontend/build/
+node_modules/
