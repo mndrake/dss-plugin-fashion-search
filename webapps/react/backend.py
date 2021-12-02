@@ -3,7 +3,7 @@ import dataiku
 dataiku.use_plugin_libs("fashion-search")
 from elasticsearch import Elasticsearch
 from search import FashionSearch
-from flask import app, jsonify, request
+from flask import jsonify, request
 
 # Load Model
 model_folder = dataiku.core.managed_folder.Folder(get_webapp_config()["model_folder"])
