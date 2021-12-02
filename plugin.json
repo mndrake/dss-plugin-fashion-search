@@ -1,6 +1,6 @@
 {
     "id": "fashion-search",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "meta": {
         "label": "Fashion search",
         "description": "Use BERT to search for fashion results",
