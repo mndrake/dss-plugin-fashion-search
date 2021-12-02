@@ -1,7 +1,0 @@
-// This file is the descriptor for the Standard Web App Template fashion-search_test
-{
-    "libraries": [],
-    "label": "Short description of fashion-search_test",
-    "backendEnabled": true,
-    "autoStartBackend": false
-}
